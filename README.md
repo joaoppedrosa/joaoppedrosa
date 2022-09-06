@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm João Pedro 👋
+
+I'm a mobile developer that loves to build awesome mobile apps from scratch. :raised_hands: 
+
+
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/joaoppedrosa18)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joaoppedrosa) 
+[![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=Medium&style=social)](https://medium.com/@joaoppedrosa)
+
+---
 
 <!--
 **joaoppedrosa/joaoppedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
