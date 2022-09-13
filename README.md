@@ -8,6 +8,9 @@ I'm a mobile developer that loves to build awesome mobile apps from scratch. :ra
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joaoppedrosa) 
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=Medium&style=social)](https://medium.com/@joaoppedrosa)
 [![Hashnode](https://img.shields.io/badge/--hashnode?label=Hashnode&logo=Hashnode&style=social)](https://joaoppedrosa.hashnode.dev/)
+[![Dev.to](https://img.shields.io/badge/--devtoto?label=Dev.to&logo=dev.to&style=social)](https://dev.to/joaoppedrosa)
+
+
 <!--
 **joaoppedrosa/joaoppedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
