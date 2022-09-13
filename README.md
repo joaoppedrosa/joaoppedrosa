@@ -1,7 +1,9 @@
 ### I'm João Pedro 👋
+<br/>
 
-I'm a mobile developer that loves to build awesome mobile apps from scratch. :raised_hands:
+I love transforming ideas into solutions or products, taking projects from concept to release, managing and mentoring motivated teams, and working fast to deliver valuable solutions. As a mobile developer, I love to build awesome mobile apps from scratch with a fantastic UI/UX :raised_hands:
 
+<br/>
 
 [![Gitlab](https://img.shields.io/badge/--gitlab?label=Gitlab&logo=Gitlab&style=social)](https://gitlab.com/joaoppedrosa)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/joaoppedrosa18)
