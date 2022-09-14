@@ -10,7 +10,7 @@ I love transforming ideas into solutions or products, taking projects from conce
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=Medium&style=social)](https://medium.com/@joaoppedrosa)
 [![Hashnode](https://img.shields.io/badge/--hashnode?label=Hashnode&logo=Hashnode&style=social)](https://joaoppedrosa.hashnode.dev/)
 [![Dev.to](https://img.shields.io/badge/--devtoto?label=Dev.to&logo=dev.to&style=social)](https://dev.to/joaoppedrosa)
-
+[![Docker](https://img.shields.io/badge/--docker?label=Docker&logo=Docker&style=social)](https://hub.docker.com/u/jppedrosa)
 
 <!--
 **joaoppedrosa/joaoppedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
