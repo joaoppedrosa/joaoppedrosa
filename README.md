@@ -5,7 +5,7 @@ I love transforming ideas into solutions or products, taking projects from conce
 <br/>
 
 [![Gitlab](https://img.shields.io/badge/--gitlab?label=Gitlab&logo=Gitlab&style=social)](https://gitlab.com/joaoppedrosa)
-[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/joaoppedrosa18)
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=X&style=social)](https://twitter.com/joaoppedrosa18)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joaoppedrosa) 
 [![Medium](https://img.shields.io/badge/--medium?label=Medium&logo=Medium&style=social)](https://medium.com/@joaoppedrosa)
 [![Hashnode](https://img.shields.io/badge/--hashnode?label=Hashnode&logo=Hashnode&style=social)](https://joaoppedrosa.hashnode.dev/)
